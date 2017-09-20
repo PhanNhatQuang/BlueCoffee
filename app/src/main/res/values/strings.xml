@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">SEND</string>
+    <string name="text_tableNumber">Số bàn</string>
+    <string name="btn_next">NEXT</string>
+
+</resources>
